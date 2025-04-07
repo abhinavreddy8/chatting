@@ -29,30 +29,15 @@ A robust real-time chat application built using **Android Studio** and **Java**,
 
 ## 📸 Screenshots
 
-| Login | Chat List | Chat Screen | Profile |  
+| Search | Chat List | Chat Screen | Profile |  
 |------|-----------|-------------|---------|  
-| ![Login](https://firebasestorage.googleapis.com/v0/b/chatappmedia/o/login.jpg?alt=media) | ![ChatList](https://firebasestorage.googleapis.com/v0/b/chatappmedia/o/chatlist.jpg?alt=media) | ![ChatScreen](https://firebasestorage.googleapis.com/v0/b/chatappmedia/o/chatscreen.jpg?alt=media) | ![Profile](https://firebasestorage.googleapis.com/v0/b/chatappmedia/o/profile.jpg?alt=media) |
+| ![Search](https://github.com/abhinavreddy8/chatting/blob/main/search.jpg?raw=true) | ![ChatList](https://github.com/abhinavreddy8/chatting/blob/main/chatscreen.jpg?raw=true) | ![ChatScreen](https://github.com/abhinavreddy8/chatting/blob/main/chatscreen1.jpg?raw=true) | ![Profile](https://github.com/abhinavreddy8/chatting/blob/main/profile.jpg?raw=true) |
 
 > 📌 *Replace the above Firebase URLs with your own image URLs from storage (or upload them to GitHub and use raw links).*
 
 ---
 
-## 🔧 Setup Instructions
 
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/yourusername/chat-app.git
-    ```
-
-2. Open in **Android Studio**.
-
-3. Connect your app to **Firebase** via `Tools > Firebase`.
-
-4. Enable **Firebase Realtime Database** and **Authentication** (Email/Password or Anonymous).
-
-5. Add your `google-services.json` to the `app/` directory.
-
-6. Run the project on emulator or real device.
 
 ---
 
@@ -74,11 +59,6 @@ A robust real-time chat application built using **Android Studio** and **Java**,
 
 ---
 
-## 📬 Contact
 
-For queries or collaborations:  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-🐙 [GitHub](https://github.com/yourusername)
 
 ---
