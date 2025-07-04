@@ -11,8 +11,7 @@ A robust real-time chat application built using **Android Studio** and **Java**,
 - 🔔 **Unread Message Count** for conversations  
 - 🔍 **User Search** functionality  
 - 👤 **Profile Management** (View & Edit user profile)  
-- 🎨 **Splash Screen** with basic UI/UX design  
-- 🔐 **Firebase Authentication** (Email/Password or Anonymous Login)  
+- 🎨 **Splash Screen** with basic UI/UX design    
 - 🛎️ **Push Notifications** for new messages  
 - 🔧 **Clean Architecture** with Separation of Concerns (Activities, Adapters, Models, Utils)
 
