@@ -33,7 +33,8 @@ A robust real-time chat application built using **Android Studio** and **Java**,
 
 | Search | Chat List | Chat Screen | Profile | Status |
 |--------|-----------|-------------|---------|--------|
-| ![Search](https://github.com/abhinavreddy8/chatting/blob/main/search.jpg?raw=true) | ![ChatList](https://github.com/abhinavreddy8/chatting/blob/main/chatscreen.jpg?raw=true) | ![ChatScreen](https://github.com/abhinavreddy8/chatting/blob/main/chatscreen1.jpg?raw=true) | ![Profile](https://github.com/abhinavreddy8/chatting/blob/main/profile.jpg?raw=true) | ![Status](https://github.com/abhinavreddy8/chatting/blob/main/chat%20status.jpg?raw=true) |
+| ![Search](https://github.com/abhinavreddy8/chatting/blob/main/search.jpg?raw=true) | ![ChatList](https://github.com/abhinavreddy8/chatting/blob/main/chat.jpg?raw=true) | ![ChatScreen](https://github.com/abhinavreddy8/chatting/blob/main/chatscreen1.jpg?raw=true) | ![Profile](https://github.com/abhinavreddy8/chatting/blob/main/profile.jpg?raw=true) | ![Status](https://github.com/abhinavreddy8/chatting/blob/main/chat%20status.jpg?raw=true) |
+
 
 
 ---
