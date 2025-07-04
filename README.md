@@ -13,7 +13,9 @@ A robust real-time chat application built using **Android Studio** and **Java**,
 - 👤 **Profile Management** (View & Edit user profile)  
 - 🎨 **Splash Screen** with basic UI/UX design  
 - 🔐 **Firebase Authentication** (Email/Password or Anonymous Login)  
-- 🔧 Clean Architecture with Separation of Concerns (Activities, Adapters, Models, Utils)
+- 🛎️ **Push Notifications** for new messages  
+- 🔧 **Clean Architecture** with Separation of Concerns (Activities, Adapters, Models, Utils)
+
 
 ---
 
@@ -29,11 +31,10 @@ A robust real-time chat application built using **Android Studio** and **Java**,
 
 ## 📸 Screenshots
 
-| Search | Chat List | Chat Screen | Profile |  
-|------|-----------|-------------|---------|  
-| ![Search](https://github.com/abhinavreddy8/chatting/blob/main/search.jpg?raw=true) | ![ChatList](https://github.com/abhinavreddy8/chatting/blob/main/chatscreen.jpg?raw=true) | ![ChatScreen](https://github.com/abhinavreddy8/chatting/blob/main/chatscreen1.jpg?raw=true) | ![Profile](https://github.com/abhinavreddy8/chatting/blob/main/profile.jpg?raw=true) |
+| Search | Chat List | Chat Screen | Profile | Status |
+|--------|-----------|-------------|---------|--------|
+| ![Search](https://github.com/abhinavreddy8/chatting/blob/main/search.jpg?raw=true) | ![ChatList](https://github.com/abhinavreddy8/chatting/blob/main/chatscreen.jpg?raw=true) | ![ChatScreen](https://github.com/abhinavreddy8/chatting/blob/main/chatscreen1.jpg?raw=true) | ![Profile](https://github.com/abhinavreddy8/chatting/blob/main/profile.jpg?raw=true) | ![Status](https://github.com/abhinavreddy8/chatting/blob/main/chat%20status.jpg?raw=true) |
 
-> 📌 *Replace the above Firebase URLs with your own image URLs from storage (or upload them to GitHub and use raw links).*
 
 ---
 
